@@ -172,5 +172,3 @@ B.Tech Computer Science & Engineering
 Royal Global University, Guwahati, Assam
 
 **Email:** [abhimanyudeb53@gmail.com](mailto:abhimanyudeb53@gmail.com)
-
-```
