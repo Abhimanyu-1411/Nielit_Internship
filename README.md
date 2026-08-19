@@ -140,17 +140,6 @@ The model performance indicates that further feature engineering, model selectio
 * Scikit-learn
 * Jupyter Notebook
 
-## Project Structure
-
-```text
-student-burnout-prediction/
-│
-├── Student_Burnout_Prediction.ipynb
-├── README.md
-└── dataset/
-    └── student_burnout.csv
-```
-
 ## Key Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -184,7 +173,4 @@ Royal Global University, Guwahati, Assam
 
 **Email:** [abhimanyudeb53@gmail.com](mailto:abhimanyudeb53@gmail.com)
 
-```
-
-I deliberately included the **33.45% result** here because a GitHub README should be transparent about the actual model outcome. Your resume can omit it, but the project repository should document it accurately.
 ```
